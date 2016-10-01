@@ -1,2 +1,8 @@
 # Basic-Twitter-Sentiment-Analytics
-processing live data streams using Spark’s streaming APIs and Python
+This project is to perform a basic sentiment analysis of real-time tweets.
+
+### Tools
+Spark’s streaming APIs Kafka and Python
+
+### Detailed Description
+
